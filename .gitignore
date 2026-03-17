@@ -1,0 +1,15 @@
+.env
+__pycache__/
+*.pyc
+temp_audio.wav
+.DS_Store
+.vscode/
+mic_test.wav
+videos/
+test.py
+test3.py
+test_cam_mic.py
+test_movie.py
+quiz_cache_ollama.json
+emotion_data.csv
+quiz_results.csv

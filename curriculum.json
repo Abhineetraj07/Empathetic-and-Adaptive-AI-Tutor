@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "video_path": "videos/Introduction to Agriculture _ Crop Production and Management _ Don t Memorise.mp4",
+    "topic_name": "Introduction to Agriculture",
+    "description": "Introduces agriculture and crop production. Covers why we need food, what crops are, the two main crop seasons in India (Kharif and Rabi), and the basic steps of crop management from preparation to harvesting.",
+    "order": 1
+  },
+  {
+    "id": 2,
+    "video_path": "videos/Agricultural Practices _ Soil Preparation _ Crop Production and Management _ Don t Memorise.mp4",
+    "topic_name": "Soil Preparation",
+    "description": "Explains agricultural practices for soil preparation. Covers why soil needs to be prepared before sowing, tools used for tilling and ploughing (plough, hoe, cultivator), how tilling loosens soil for roots and nutrients, and the role of levelling.",
+    "order": 2
+  },
+  {
+    "id": 3,
+    "video_path": "videos/sowing.mp4",
+    "topic_name": "Sowing",
+    "description": "Covers the process of sowing seeds. Explains seed selection, quality of seeds, tools for sowing (traditional funnel, seed drill), spacing and depth requirements, and how proper sowing affects crop yield.",
+    "order": 3
+  },
+  {
+    "id": 4,
+    "video_path": "videos/manure and fertilizers __ crop production and management __ class 8 __ part - 4.mp4",
+    "topic_name": "Manure and Fertilizers",
+    "description": "Explains the difference between manure and fertilizers. Covers organic manure (compost, vermicompost, green manure), chemical fertilizers (NPK), advantages and disadvantages of each, and how they supply nutrients to the soil.",
+    "order": 4
+  },
+  {
+    "id": 5,
+    "video_path": "videos/Traditional Methods of Irrigation _ Crop Production and Management _ Don t Memorise.mp4",
+    "topic_name": "Irrigation Methods",
+    "description": "Covers traditional and modern methods of irrigation. Explains why crops need water, sources of irrigation, traditional methods (moat, chain pump, dhekli, rahat), modern methods (sprinkler system, drip irrigation), and water conservation.",
+    "order": 5
+  },
+  {
+    "id": 6,
+    "video_path": "videos/Weeds and Protection against them _ Crop Production and Management _ Don t Memorise.mp4",
+    "topic_name": "Weeds and Crop Protection",
+    "description": "Explains weeds and methods of crop protection. Covers what weeds are, how they harm crops, methods of weed removal (tilling, manual removal, weedicides), and protection against pests and diseases using pesticides and biological methods.",
+    "order": 6
+  },
+  {
+    "id": 7,
+    "video_path": "videos/harvesting.mp4",
+    "topic_name": "Harvesting and Storage",
+    "description": "Covers the final stages of crop production. Explains harvesting methods (manual and machine), threshing, winnowing, proper storage of grains, factors affecting storage (moisture, pests), and food production from animals.",
+    "order": 7
+  }
+]

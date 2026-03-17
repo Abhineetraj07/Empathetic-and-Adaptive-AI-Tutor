@@ -1,0 +1,7 @@
+deepface
+opencv-python
+pandas
+firebase-admin
+transformers
+torch
+matplotlib
